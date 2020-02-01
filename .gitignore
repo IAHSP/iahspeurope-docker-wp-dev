@@ -1,0 +1,6 @@
+/wp-content
+
+# Vim cache.
+.*.swp
+.*.swo
+
